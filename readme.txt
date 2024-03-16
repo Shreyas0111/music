@@ -1,12 +1,6 @@
-Sample Downloaded Music: https://www.bensound.com
----------------------------------------------------
 Admin Access
 email: admin@admin.com
 password: admin123
-----------------------------------------------------
-Sample User Access
-email: jsmith@sample.com
-password: jsmith123
 ----------------------------------------------------
 Project: Simple Music Cloud Community System using PHP/MySQLi
 
